@@ -1,3 +1,3 @@
 # Aveelo-adguard-home-Adlist-Whitelist
-Is it my adlist/whitelist free to use it if you want
-[use at your own risk]
+Is it my adlist/whitelist
+[use at your own risk no support or help will be done]
