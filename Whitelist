@@ -302,3 +302,4 @@ raspberrypi.org
 ntp.org
 /(\.|^)raspberrypi\.org$/
 /(\.|^)ntp\.org$/
+update.xboxlive.com
