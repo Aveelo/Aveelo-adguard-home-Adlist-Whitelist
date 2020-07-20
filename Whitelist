@@ -305,3 +305,5 @@ ntp.org
 update.xboxlive.com
 /(\.|^)github\.com$/
 /(\.|^)gitlab\.io$/
+gitlab.com
+/(\.|^)gitlab\.com$/
