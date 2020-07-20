@@ -303,7 +303,7 @@ ntp.org
 /(\.|^)raspberrypi\.org$/
 /(\.|^)ntp\.org$/
 update.xboxlive.com
-https://1.1.1.1/dns-query
-https://1.0.0.1/dns-query
-1.1.1.1
-1.0.0.1
+github.com
+gitlab.io
+/(\.|^)github\.com$/
+/(\.|^)gitlab\.io$/
