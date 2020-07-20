@@ -308,3 +308,7 @@ update.xboxlive.com
 gitlab.com
 /(\.|^)gitlab\.com$/
 tracking-protection.cdn.mozilla.net
+steampowered.com
+client-download.steampowered.com
+/(\.|^)steampowered\.com$/
+dns.google
