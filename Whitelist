@@ -303,7 +303,5 @@ ntp.org
 /(\.|^)raspberrypi\.org$/
 /(\.|^)ntp\.org$/
 update.xboxlive.com
-github.com
-gitlab.io
 /(\.|^)github\.com$/
 /(\.|^)gitlab\.io$/
