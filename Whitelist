@@ -307,3 +307,4 @@ update.xboxlive.com
 /(\.|^)gitlab\.io$/
 gitlab.com
 /(\.|^)gitlab\.com$/
+tracking-protection.cdn.mozilla.net
