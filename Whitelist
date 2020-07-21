@@ -303,12 +303,8 @@ ntp.org
 /(\.|^)raspberrypi\.org$/
 /(\.|^)ntp\.org$/
 update.xboxlive.com
-/(\.|^)github\.com$/
-/(\.|^)gitlab\.io$/
 gitlab.com
-/(\.|^)gitlab\.com$/
+gitlab.io
 tracking-protection.cdn.mozilla.net
-steampowered.com
 client-download.steampowered.com
-/(\.|^)steampowered\.com$/
 dns.google
