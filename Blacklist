@@ -42,6 +42,7 @@
 /(^|\.)samsungelectronics\.com$/
 /(^|\.)samsungotn\.net$/
 /(^|\.)samsungrm\.net$/
+/^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.com/
 /^([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo\.com/
 /^([A-Za-z0-9.-]*\.)?secure\.footprint\.net/
 /^([A-Za-z0-9.-]*\.)?match\.com/
