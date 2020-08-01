@@ -72,4 +72,7 @@
 /^https?://([A-Za-z0-9.-]*\.)?ads\.yahoo\.com/
 /^https?://([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com/
 /^https?://([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo(\.\w{2}\.\w{2}|\.\w{2,4})/
+/^(doh|dns|rdns|resolver)[-.]/
+/^resolver?[-.]/
+/^dns?[-.]/
 use-application-dns.net
