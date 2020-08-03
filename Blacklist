@@ -22,13 +22,6 @@
 /(^|\.)treasuredata\.com$/
 /(^|\.)unity(|3d)\.com$/
 /(^|\.)unityads(|\.co)\.com$/
-/((^)|(.))metric./
-/((^)|(.))telemetry./
-/((^)|(.))analytic./
-/((^)|(.))adchoice./
-/((^)|(.))adsdk./
-/((^)|(.))adserv./
-/((^)|(.))tracking./
 /(^|\.)ibs\.lgappstv\.com/
 /(^|\.)lgsmartad\.com/
 /(^|\.)smartshare\.lgtvsdp\.com/
