@@ -321,8 +321,10 @@ eulatracking-public-service-prod06.ol.epicgames.com
 send.firefox.com
 circularhub.com
 flyerdirector.com
-@@||flyerdirector.com^
+flyertown.ca
 @@||circularhub.com^
+@@||flyerdirector.com^
+@@||flyertown.ca^
 @@||0-edge-chat.facebook.com^
 @@||0.africa.pool.ntp.org^
 @@||0.arch.pool.ntp.org^
