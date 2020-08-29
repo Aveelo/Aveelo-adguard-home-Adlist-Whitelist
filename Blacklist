@@ -1,6 +1,6 @@
 ! Title: Aveelo Filter - Blacklist
 ! Description: Is it my Blacklist [use at your own risk no support or help will be done]
-! Last Modified: 2020-08-2021 12:31PM EST
+! Last Modified: 2020-08-29 10:42AM EST
 ! Sources: https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/Blacklist
 !
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
