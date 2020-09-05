@@ -1,6 +1,6 @@
 # Title: Aveelo Host - Whitelist
 # Description: Is it my Whitelist [use at your own risk no support or help will be done]
-# Last Modified: 2020-09-05 3:05AM EST
+# Last Modified: 2020-09-06 6:47PM EST
 # Sources: https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/Whitelisthost
 #
 0.client-channel.google.com
@@ -281,32 +281,9 @@ support.microsoft.com
 openload.co
 www.openload.co
 stats.streamelements.com
-(\.|^)blob\.core\.windows\.net$
-(\.|^)wdcp\.microsoft\.com$
-(\.|^)wdcpalt\.microsoft\.com$
-(\.|^)wd\.microsoft\.com$
-(\.|^)update\.microsoft\.com$
-(\.|^)delivery\.mp\.microsoft\.com$
-(\.|^)windowsupdate\.com$
-(\.|^)download\.microsoft\.com$
-(\.|^)download\.windowsupdate\.com$
-(\.|^)ussus1eastprod\.blob\.core\.windows\.net$
-(\.|^)ussus1westprod\.blob\.core\.windows\.net$
-(\.|^)usseu1northprod\.blob\.core\.windows\.net$
-(\.|^)usseu1westprod\.blob\.core\.windows\.net$
-(\.|^)ussuk1southprod\.blob\.core\.windows\.net$
-(\.|^)ussuk1westprod\.blob\.core\.windows\.net$
-(\.|^)ussas1eastprod\.blob\.core\.windows\.net$
-(\.|^)ussas1southeastprod\.blob\.core\.windows\.net$
-(\.|^)ussau1eastprod\.blob\.core\.windows\.net$
-(\.|^)ussau1southeastprod\.blob\.core\.windows\.net$
-(\.|^)vortex-win\.data\.microsoft\.com$
-(\.|^)settings-win\.data\.microsoft\.com$
 supervisor.ext-twitch.tv
 raspberrypi.org
 ntp.org
-(\.|^)raspberrypi\.org$
-(\.|^)ntp\.org$
 update.xboxlive.com
 gitlab.com
 gitlab.io
@@ -329,3 +306,29 @@ circulaireapp.jeancoutu.com
 ecirculaire.brunet.ca
 circulaire.familiprix.com
 circulars.rossy.ca
+streamlabs.com
+# Regex pi hole
+# (\.|^)blob\.core\.windows\.net$
+# (\.|^)wdcp\.microsoft\.com$
+# (\.|^)wdcpalt\.microsoft\.com$
+# (\.|^)wd\.microsoft\.com$
+# (\.|^)update\.microsoft\.com$
+# (\.|^)delivery\.mp\.microsoft\.com$
+# (\.|^)windowsupdate\.com$
+# (\.|^)download\.microsoft\.com$
+# (\.|^)download\.windowsupdate\.com$
+# (\.|^)ussus1eastprod\.blob\.core\.windows\.net$
+# (\.|^)ussus1westprod\.blob\.core\.windows\.net$
+# (\.|^)usseu1northprod\.blob\.core\.windows\.net$
+# (\.|^)usseu1westprod\.blob\.core\.windows\.net$
+# (\.|^)ussuk1southprod\.blob\.core\.windows\.net$
+# (\.|^)ussuk1westprod\.blob\.core\.windows\.net$
+# (\.|^)ussas1eastprod\.blob\.core\.windows\.net$
+# (\.|^)ussas1southeastprod\.blob\.core\.windows\.net$
+# (\.|^)ussau1eastprod\.blob\.core\.windows\.net$
+# (\.|^)ussau1southeastprod\.blob\.core\.windows\.net$
+# (\.|^)vortex-win\.data\.microsoft\.com$
+# (\.|^)settings-win\.data\.microsoft\.com$
+# (\.|^)raspberrypi\.org$
+# (\.|^)ntp\.org$
+#
