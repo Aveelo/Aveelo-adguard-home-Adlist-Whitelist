@@ -32,13 +32,13 @@ getpocket.cdn.mozilla.net
 # ^pixels?[-.]
 # ^stat(s|istics)?[0-9]*[_.-]
 # ^track(ing)?[0-9]*[_.-]
-# ^(.+[_.-])?eulerian\.net$/
-# ^(.+[_.-])?dnsdelegation\.io$/
-# (^|\.)buffpanel\.com$/
-# (^|\.)bugsnag\.com$/
-# (^|\.)redshell\.io$/
-# (^|\.)treasuredata\.com$/
-# (^|\.)unity(|3d)\.com$/
-# (^|\.)unityads(|\.co)\.com$/
-# ^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.com/
+# ^(.+[_.-])?eulerian\.net$
+# ^(.+[_.-])?dnsdelegation\.io$
+# (^|\.)buffpanel\.com$
+# (^|\.)bugsnag\.com$
+# (^|\.)redshell\.io$
+# (^|\.)treasuredata\.com$
+# (^|\.)unity(|3d)\.com$
+# (^|\.)unityads(|\.co)\.com$
+# ^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.com
 #
