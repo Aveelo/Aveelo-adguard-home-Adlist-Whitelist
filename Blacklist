@@ -3,19 +3,19 @@
 ! Last Modified: 2020-09-05 6:59PM EST
 ! Sources: https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/Blacklist
 !
-use-application-dns.net
-one.one.one.one
-mozilla.cloudflare-dns.com
-1dot1dot1dot1.cloudflare-dns.com
-cloudflare-dns.com
-dns64.cloudflare-dns.com
-security.cloudflare-dns.com
-family.cloudflare-dns.com
-dns.google
-google-public-dns-a.google.com
-google-public-dns-b.google.com
-dns64.dns.google
-getpocket.cdn.mozilla.net
+||use-application-dns.net^
+||one.one.one.one^
+||mozilla.cloudflare-dns.com^
+||1dot1dot1dot1.cloudflare-dns.com^
+||cloudflare-dns.com^
+||dns64.cloudflare-dns.com^
+||security.cloudflare-dns.com^
+||family.cloudflare-dns.com^
+||dns.google^
+||google-public-dns-a.google.com^
+||google-public-dns-b.google.com^
+||dns64.dns.google^
+||getpocket.cdn.mozilla.net^
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
 /^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|^.+[_.-]ad([sxv]?[0-9]*|system)[_.-]/
