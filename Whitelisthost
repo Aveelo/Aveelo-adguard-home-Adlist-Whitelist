@@ -322,7 +322,9 @@ app.restream.io
 analytics.restream.io
 chat.restream.io
 fongo.com
+#
 # Whitelist regex for pi hole
+#
 # (\.|^)blob\.core\.windows\.net$
 # (\.|^)wdcp\.microsoft\.com$
 # (\.|^)wdcpalt\.microsoft\.com$
