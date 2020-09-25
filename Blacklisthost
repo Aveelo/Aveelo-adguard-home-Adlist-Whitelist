@@ -16,7 +16,9 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 dns64.dns.google
 getpocket.cdn.mozilla.net
+#
 # Blacklist regex for pi hole
+#
 # ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|^.+[_.-]ad([sxv]?[0-9]*|system)[_.-]
 # ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 # ^(.+[_.-])?telemetry[_.-]
