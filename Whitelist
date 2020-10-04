@@ -1,6 +1,6 @@
 ! Title: Aveelo Filter - Whitelist
 ! Description: Is it my Whitelist [use at your own risk no support or help will be done]
-! Last Modified: 2020-09-25 10:06AM EST
+! Last Modified: 2020-10-04 3:17PM EST
 ! Sources: https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/Whitelist
 !
 @@||0.client-channel.google.com^
@@ -322,6 +322,18 @@
 @@||analytics.restream.io^
 @@||chat.restream.io^
 @@||fongo.com^
+@@||zee.cws.conviva.com^
+@@||pings.conviva.com^
+@@||cws.conviva.com^
+@@||livepassdl.conviva.com^
+@@||gfwsl.geforce.com^
+@@||vidtech.cbsinteractive.com^
+@@||continuum.dds.microsoft.com^
+@@||www.msftconnecttest.com^
+@@||sls.update.microsoft.com.akadns.net^
+@@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net^
+@@||s{1..5}.symcb.com^
+@@||nexus.ensighten.com^
 !
 ! Regex
 !
