@@ -361,7 +361,7 @@
 /(\.|^)raspberrypi\.org$/
 /(\.|^)ntp\.org$/
 !
-! Energized Protection - unblock github.com/EnergizedProtection/unblock
+! Energized Protection - unblock (Version 20.10.279) github.com/EnergizedProtection/unblock
 !
 @@||0-edge-chat.facebook.com^
 @@||0.africa.pool.ntp.org^
