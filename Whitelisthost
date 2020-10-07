@@ -334,6 +334,22 @@ sls.update.microsoft.com.akadns.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 s{1..5}.symcb.com
 nexus.ensighten.com
+activity.windows.com
+adaway.org
+www.malwaredomainlist.com
+malwaredomainlist.com
+filters.adtidy.org
+mirror1.malwaredomains.com
+hostfiles.frogeye.fr
+osint.digitalside.it
+mirror.cedia.org.ec
+bitbucket.org
+phishing.army
+urlhaus.abuse.ch
+easylist.to
+stanev.org
+easylist-downloads.adblockplus.org
+notabug.org
 #
 # Whitelist regex for pi hole
 #
