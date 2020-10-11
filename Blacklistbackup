@@ -1,0 +1,45 @@
+! Title: Aveelo Filter - Blacklist
+! Description: Is it my Blacklist [use at your own risk no support or help will be done]
+! Last Modified: 2020-10-05 10:12PM EST
+! Sources: https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/Blacklist
+!
+||use-application-dns.net^$important
+||one.one.one.one^$important
+||mozilla.cloudflare-dns.com^$important
+||1dot1dot1dot1.cloudflare-dns.com^$important
+||cloudflare-dns.com^$important
+||dns64.cloudflare-dns.com^$important
+||security.cloudflare-dns.com^$important
+||family.cloudflare-dns.com^$important
+||dns.google^$important
+||google-public-dns-a.google.com^$important
+||google-public-dns-b.google.com^$important
+||dns64.dns.google^$important
+||getpocket.cdn.mozilla.net^$important
+!
+! Regex
+!
+/^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
+/^(.+[_.-])?telemetry[_.-]/
+/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|^.+[_.-]ad([sxv]?[0-9]*|system)[_.-]/
+/^adim(age|g)s?[0-9]*[_.-]/
+/^adtrack(er|ing)?[0-9]*[_.-]/
+/^advert(s|is(ing|ements?))?[0-9]*[_.-]/
+/^aff(iliat(es?|ion))?[_.-]/
+/^analytics?[_.-]/
+/^banners?[_.-]/
+/^beacons?[0-9]*[_.-]/
+/^count(ers?)?[0-9]*[_.-]/
+/^mads\./
+/^pixels?[-.]/
+/^stat(s|istics)?[0-9]*[_.-]/
+/^track(ing)?[0-9]*[_.-]/
+/^(.+[_.-])?eulerian\.net$/
+/^(.+[_.-])?dnsdelegation\.io$/
+/(^|\.)buffpanel\.com$/
+/(^|\.)bugsnag\.com$/
+/(^|\.)redshell\.io$/
+/(^|\.)treasuredata\.com$/
+/(^|\.)unity(|3d)\.com$/
+/(^|\.)unityads(|\.co)\.com$/
+/^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.com/
