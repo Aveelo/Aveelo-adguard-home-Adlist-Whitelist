@@ -1,6 +1,6 @@
 ! Title: Aveelo Filter - Whitelist AdGuardHome
 ! Description: Is it my Whitelist [use at your own risk no support or help will be done]
-! Sources: https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/Whitelist
+! Sources: https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/WhitelistAdGuardHome
 !
 @@||0.client-channel.google.com^
 @@||1drv.com^
