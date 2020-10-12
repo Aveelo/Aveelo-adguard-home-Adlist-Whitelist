@@ -353,29 +353,3 @@ github.developerdan.com
 cosmos.channel.or.jp
 browser.pipe.aria.microsoft.com
 mobile.pipe.aria.microsoft.com
-#
-# Whitelist regex for pi hole
-#
-# (\.|^)blob\.core\.windows\.net$
-# (\.|^)wdcp\.microsoft\.com$
-# (\.|^)wdcpalt\.microsoft\.com$
-# (\.|^)wd\.microsoft\.com$
-# (\.|^)update\.microsoft\.com$
-# (\.|^)delivery\.mp\.microsoft\.com$
-# (\.|^)windowsupdate\.com$
-# (\.|^)download\.microsoft\.com$
-# (\.|^)download\.windowsupdate\.com$
-# (\.|^)ussus1eastprod\.blob\.core\.windows\.net$
-# (\.|^)ussus1westprod\.blob\.core\.windows\.net$
-# (\.|^)usseu1northprod\.blob\.core\.windows\.net$
-# (\.|^)usseu1westprod\.blob\.core\.windows\.net$
-# (\.|^)ussuk1southprod\.blob\.core\.windows\.net$
-# (\.|^)ussuk1westprod\.blob\.core\.windows\.net$
-# (\.|^)ussas1eastprod\.blob\.core\.windows\.net$
-# (\.|^)ussas1southeastprod\.blob\.core\.windows\.net$
-# (\.|^)ussau1eastprod\.blob\.core\.windows\.net$
-# (\.|^)ussau1southeastprod\.blob\.core\.windows\.net$
-# (\.|^)vortex-win\.data\.microsoft\.com$
-# (\.|^)settings-win\.data\.microsoft\.com$
-# (\.|^)raspberrypi\.org$
-# (\.|^)ntp\.org$
