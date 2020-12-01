@@ -2,6 +2,3 @@
 ! Description: Is it my Blacklist [use at your own risk no support or help will be done]
 ! Sources: https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/Blacklist
 !
-||use-application-dns.net^$important
-||mozilla.cloudflare-dns.com^$important
-||tplinkwifi.net^$important
