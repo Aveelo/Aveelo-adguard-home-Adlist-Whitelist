@@ -2,3 +2,12 @@
 # Description: Is it my Whitelist [use at your own risk no support or help will be done]
 # Sources: https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/Blacklistregexpihole
 #
+^(.+[_.-])?eulerian\.net$
+^(.+[_.-])?dnsdelegation\.io$
+(^|\.)buffpanel\.com$
+(^|\.)bugsnag\.com$
+(^|\.)redshell\.io$
+(^|\.)treasuredata\.com$
+(^|\.)unity(|3d)\.com$
+(^|\.)unityads(|\.co)\.com$
+^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.com
