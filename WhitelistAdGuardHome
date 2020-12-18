@@ -7352,7 +7352,7 @@
 @@||pt.ign.com^
 @@||pt.statcounter.com^
 @@||pt.wikipedia.com^
-@@||pt_br.statcounter.com^
+@@||pt-br.statcounter.com^
 @@||pti.store.microsoft.com^
 @@||ptlogin2.wechat.com^
 @@||ptm.flowplayer.com^
@@ -10953,7 +10953,8 @@
 @@||xdjiraintegration.adobe.com^
 @@||xfce.org^
 @@||xflight.xboxlive.com^
-@@||xflight.xboxlive.com cert.mgt.xboxlive.com^
+@@||xflight.xboxlive.com^
+@@||cert.mgt.xboxlive.com^
 @@||xiami.com^
 @@||xiaomi.com^
 @@||xiaomi.net^
@@ -10962,7 +10963,8 @@
 @@||xinhuanet.com^
 @@||xk.me^
 @@||xkms.xbolive.com^
-@@||xkms.xbolive.com def-vef.xboxlive.com^
+@@||xkms.xbolive.com^
+@@||def-vef.xboxlive.com^
 @@||xkms.xboxlive.com^
 @@||xl7xml.client.xunlei.com^
 @@||xmcs.mi.com^
@@ -11055,8 +11057,8 @@
 @@||zh-tw.gravatar.com^
 @@||zh-tw.twitch.tv^
 @@||zh.wikipedia.com^
-@@||zh_cn.statcounter.com^
-@@||zh_tw.statcounter.com^
+@@||zh-cn.statcounter.com^
+@@||zh-tw.statcounter.com^
 @@||zhaopin.com^
 @@||zhibo.mi.com^
 @@||zhihu.com^
