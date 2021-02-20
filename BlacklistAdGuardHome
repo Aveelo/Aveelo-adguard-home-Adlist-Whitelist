@@ -2,7 +2,7 @@
 ! Description: Is it my Blacklist [use at your own risk no support or help will be done]
 ! Sources: https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/BlacklistAdGuardHome
 !
-||use-application-dns.net^$important
+||use-application-dns.net^$dnsrewrite=NXDOMAIN;;
 ||one.one.one.one^$important
 ||mozilla.cloudflare-dns.com^$important
 ||1dot1dot1dot1.cloudflare-dns.com^$important
