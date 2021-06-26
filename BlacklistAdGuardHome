@@ -3,14 +3,3 @@
 ! Sources: https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/BlacklistAdGuardHome
 !
 ||use-application-dns.net^$dnsrewrite=NXDOMAIN;;
-||one.one.one.one^$important
-||mozilla.cloudflare-dns.com^$important
-||1dot1dot1dot1.cloudflare-dns.com^$important
-||cloudflare-dns.com^$important
-||dns64.cloudflare-dns.com^$important
-||security.cloudflare-dns.com^$important
-||family.cloudflare-dns.com^$important
-||dns.google^$important
-||google-public-dns-a.google.com^$important
-||google-public-dns-b.google.com^$important
-||dns64.dns.google^$important
