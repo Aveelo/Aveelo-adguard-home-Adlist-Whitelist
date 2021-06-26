@@ -3,14 +3,3 @@
 # Sources: https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/Blacklisthost
 #
 use-application-dns.net
-one.one.one.one
-mozilla.cloudflare-dns.com
-1dot1dot1dot1.cloudflare-dns.com
-cloudflare-dns.com
-dns64.cloudflare-dns.com
-security.cloudflare-dns.com
-family.cloudflare-dns.com
-dns.google
-google-public-dns-a.google.com
-google-public-dns-b.google.com
-dns64.dns.google
