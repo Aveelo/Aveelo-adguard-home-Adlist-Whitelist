@@ -2,4 +2,4 @@
 ! Description: Is it my Blacklist [use at your own risk no support or help will be done]
 ! Sources: https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/Blacklist
 !
-||skrill.com^
+||skrill.com^$important
