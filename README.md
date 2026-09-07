@@ -1,13 +1,13 @@
 # Aveelo List
 Is it my Blacklist/Whitelist [use at your own risk no support or help will be done]
 
-//////
+////// uBlock Origin / AdGuard
 
 Blacklist uBlock Origin https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/Blacklist
 
 Whitelist uBlock Origin https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/Whitelist
 
-//////
+////// AdGuardHome
 
 Blacklist AdGuardHome https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/BlacklistAdGuardHome
 
@@ -17,7 +17,7 @@ Blacklist Regex AdGuardHome https://raw.githubusercontent.com/Aveelo/Aveelo-adgu
 
 Whitelist Regex AdGuardHome https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/Whitelistregexadguardhome
 
-//////
+////// Pi-hole
 
 Blacklist Pi-hole (host) https://raw.githubusercontent.com/Aveelo/Aveelo-adguard-home-Adlist-Whitelist/master/Blacklisthost
 
